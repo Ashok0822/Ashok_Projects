@@ -1,0 +1,20 @@
+Lund:
+  Timeanddate: 11.1 °C
+  Wunderground: 51
+
+Stockholm:
+  Timeanddate: 3.9 °C
+  Wunderground: 80
+
+Gothenburg:
+  Timeanddate: 7.8 °C
+  Wunderground: 46
+
+Malmo:
+  Timeanddate: 11.1 °C
+  Wunderground: 53
+
+Borlänge:
+  Timeanddate: 1.1 °C
+  Wunderground: 38
+

@@ -1,0 +1,13 @@
+import numpy as np
+import librosa, librosa.display
+import matplotlib.pyplot as plt
+
+y, sr = librosa.load("D:/DU-SEM2/Period 1/Data Collection/Lab 3 Audio Folder/archive/selected_4x20/street_music/109263-9-0-39.wav", sr=44100, mono=True)
+S = np.abs(librosa.stft(y, n_fft=2048, hop_length=512))
+D = librosa.amplitude_to_db(S, ref=np.max)
+plt.figure(figsize=(10, 4))
+librosa.display.specshow(D, sr=sr, x_axis='time', y_axis='log', hop_length=512)
+plt.title('Spectrogram — street_music')
+plt.colorbar(format='%+2.0f dB')
+plt.tight_layout()
+plt.show()

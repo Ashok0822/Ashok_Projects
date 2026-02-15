@@ -1,0 +1,67 @@
+Headers:
+Artificial Intelligence Tutorial | AI Tutorial
+
+Paragraphs:
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation.
+Artificial Intelligence (AI) is classified into:
+An AI agent is a software or hardware entity that performs actions autonomously with the goal of achieving specific objectives.
+Problem-solving is a fundamental aspect of AI which involves the design and application of algorithms to solve complex problems systematically.
+Search algorithms navigate through problem spaces to find solutions.
+Local search algorithms operates on a single current state (or a small set of states) and attempt to improve it incrementally by exploring neighboring states.
+Adversarial search deal with competitive environments where multiple agents (often two) are in direct competition with one another such as in games like chess, tic-tac-toe or Go.
+Constraint Satisfaction Problem (CSP) is a problem-solving framework that involves variables each with a domain of possible values and constraints limiting the combinations of variable values.
+Knowledge representation in Artificial Intelligence (AI) refers to the way information, knowledge and data are structured, stored and used by AI systems to reason, learn and make decisions.
+Common techniques for knowledge representation include:
+First Order Logic (FOL) is use to represent knowledge and reason about the world. It allows for the expression of more complex statements involving objects, their properties and the relationships between them.
+Reasoning in Artificial Intelligence (AI) is the process by which AI systems draw conclusions, make decisions or infer new knowledge from existing information.
+Types of reasoning used in AI are:
+Planning in AI generates a sequence of actions that an intelligent agent needs to execute to achieve specific goals or objectives. Some of the planning techniques in artificial intelligence includes:
+Uncertain Knowledge and Reasoning in AI refers to the methods and techniques used to handle situations where information is incomplete, ambiguous or uncertain. For managing uncertainty in AI following methods are used:
+Learning in Artificial Intelligence (AI) refers to the process by which a system improves its performance on a task over time through experience, data or interaction with the environment.
+In Supervised Learning model are trained on labeled dataset to learn the mapping from inputs to outputs. Various algorithms are:
+In Semi-supervised learning the model uses both labeled and unlabeled data to improve learning accuracy.
+In Unsupervised Learning the model is trained on unlabeled dataset to discover patterns or structures.
+In Reinforcement Learning the agent learns through interactions with an environment using feedbacks.
+Deep Learning focuses on using neural networks with many layers to model and understand complex patterns and representations in large datasets.
+Probabilistic models in AI deals with uncertainty making predictions and modeling complex systems where uncertainty and variability play an important role. These models help in reasoning, decision-making and learning from data.
+Communication in AI and robotics helps in the interaction between machines and their environments which uses natural language processing. Perceiving helps machines using sensors and cameras to interpret their surroundings accurately. Acting in robotics includes making informed decisions and performing tasks based on processed data.
+1. Natural Language Processing (NLP)
+2. Computer Vision
+3. Robotics
+Generative AI focuses on creating new data examples that resemble real data, effectively learning the distribution of data to generate similar but distinct outputs.
+We've covered the AI tutuorial which is important for developing intelligent systems and helps in making the perfect balance of simplicity and capability.
+K
+K
+What is Artificial Intelligence (AI)
+Types of Artificial Intelligence (AI)
+Types of AI Based on Functionalities
+Agents in AI
+Artificial intelligence vs Machine Learning vs Deep Learning
+Problem Solving in Artificial Intelligence
+Top 20 Applications of Artificial Intelligence (AI) in 2025
+Search Algorithms in AI
+Local Search Algorithm in Artificial Intelligence
+Adversarial Search Algorithms in Artificial Intelligence (AI)
+Constraint Satisfaction Problems (CSP) in Artificial Intelligence
+Knowledge Representation in AI
+First-Order Logic in Artificial Intelligence
+Reasoning Mechanisms in AI
+Machine Learning Tutorial
+Deep Learning Tutorial
+Natural Language Processing (NLP) Tutorial
+Computer Vision Tutorial
+Artificial Intelligence in Robotics
+What is Robotics Process Automation
+Automated Planning in AI
+AI in Transportation - Benifits, Use Cases and Examples
+AI in Manufacturing : Revolutionizing the Industry
+What is Generative AI?
+Generative Adversarial Network (GAN)
+Cycle Generative Adversarial Network (CycleGAN)
+StyleGAN - Style Generative Adversarial Networks
+Introduction to Generative Pre-trained Transformer (GPT)
+BERT Model - NLP
+Generative AI Applications
+Top Artificial Intelligence(AI) Interview Questions and Answers
+Top Generative AIand LLM  Interview Question with Answer
+30+ Best Artificial Intelligence Project Ideas with Source Code [2025 Updated]

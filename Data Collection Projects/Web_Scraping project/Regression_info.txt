@@ -1,0 +1,66 @@
+Headers:
+What is regression in machine learning?
+
+Paragraphs:
+Regression techniques are essential for uncovering relationships within data and building predictive models for a wide range of enterprise use cases, from sales forecasts to risk analysis. Here's a deep dive into this powerful machine learning technique.
+Regression in machine learning is a technique used to capture the relationships between independent and dependent variables, with the main purpose of predicting an outcome. It involves training a set of algorithms to reveal patterns that characterize the distribution of each data point. With patterns identified, the model can then make accurate predictions for new data points or input values.
+There are different types of regression. Two of the most common are linear regression and logistic regression. In linear regression, the goal is to fit all the data points along a clear line. Logistic regression focuses on determining whether each data point should be below or above the line. This is useful for sorting observations into distinct buckets such as fraud/not fraud, spam/not spam or cat/not cat.
+Regression is a fundamental concept in most statistics. Machine learning kicks things up a notch by using algorithms to distill these fundamental relationships through an automated process, said Harshad Khadilkar, senior scientist at TCS Research and visiting associate professor at IIT Bombay.
+This article is part of
+"Regression is what scientists and enterprises use when answering quantitative questions, specifically of the type 'how many,' 'how much,' 'when will' and so on. In machine learning, it discovers any measurement that is not currently available in the data," Khadilkar explained.
+Two common techniques used in regression in machine learning are interpolation and extrapolation. In interpolation, the goal is to estimate values within the available data points. Extrapolation aims to predict values beyond the bounds of existing data, based on the existing regression relationships.
+Regression is an essential concept not only for machine learning experts, but also for all business leaders, as it is a foundational technique in predictive analytics, said Nick Kramer, vice president of applied solutions at global consulting firm SSA & Company. Regression is commonly used for many types of forecasting; by revealing the nature of the relationship between variables, regression techniques give businesses insight into key issues, such as customer churn, price elasticity and more.
+David Stewart, head of data science at global asset manager Legal & General, noted that regression models are used to make predictions based on information we already know, making them widely relevant across different industries. For example, linear regression, which forecasts a numerical outcome, could be used to gauge someone's height based on factors such as age and sex. In contrast, logistic regression could help predict a person's likelihood of buying a new product by using their past product purchases as indicators.
+Linear regression has a fixed or constant sensitivity to the variables it depends on -- whether that's forecasting stock prices, tomorrow's weather or retail demand. For example, a twofold change in one variable will lead to a specific deviation in the output, Khadilkar said. Many industry-standard algorithms use linear regression, such as time series demand forecasting.
+Logistic regression, by contrast, focuses on measuring the probability of an event on a scale of 0 to 1 or 0% to 100%. The core idea in this approach is to create an S-shaped curve that shows the probability of an event occurring, with the event -- such as a system failure or a security breach -- being highly improbable on one side of the curve and near certain on the other.
+As noted, linear regression techniques focus on fitting new data points to a line. They are valuable for predictive analytics.
+In contrast, logistic regression aims to determine the probability of a new data point belonging above or below the line, i.e., to a particular class. Logistic regression techniques are useful in classification tasks such as the ones mentioned above -- to determine if a transaction is fraudulent, an email is spam, or an image is a cat, or not.
+The main difference between these approaches lies in their objectives. Classification is particularly useful in supervised machine learning processes for categorizing data points into different classes, which then can be used to train other algorithms. Linear regression is more applicable for problems such as identifying outliers from a common baseline, as seen in anomaly detection, or for predicting trends.
+The use of artificial neural networks is one of the most important and newest approaches in regression, Khadilkar said. These approaches use deep learning techniques to create some of the most sophisticated regression models available.
+"It allows us to approximate quantities with far more complex interrelationships than ever before," he explained. "These days, neural networks are taking over pretty much all forms of regression applications."
+Of the approaches discussed above, linear regression is the easiest to apply and understand, Khadilkar said, but it is sometimes not a great model of the underlying reality. Nonlinear regression -- which includes logistic regression and neural networks -- provides more flexibility in modeling, but sometimes at the cost of lower explainability.
+Regression models will obediently produce an answer, but can hide inaccuracies or oversimplifications, Kramer agreed. And a wrong prediction is often worse than no prediction. It's important to understand that one approach might work better than others, depending on the problem.
+"I've been known to use the tip of the blade in my Swiss Army knife and make it work when the screwdriver would be more effective. Similarly, we often see analysts apply the type of regression they know, even when it's not the best solution," Kramer said.
+Here are five types of regression and what they do best:
+Kramer offered the following specific applications of regression frequently used in business:
+Stewart said one of the main advantages of regression models is that they are simple and easy to understand. They are very transparent models, and it is easy to clearly explain how the model makes a prediction.
+Another advantage is that regression models have been used in industries for a long time and are well understood. For example, generalized linear models are heavily used within the actuarial profession, and their use is well established. "The models are well understood by regulatory bodies, making it simple to have informed discussions about model implementation and associated risk, governance and oversight," Stewart said.
+Their simplicity, however, can also be a limitation, he said. Regression models rely on several assumptions that rarely apply in real-world scenarios, and they can only handle simple relationships between predictors and the predicted value. Therefore, other machine learning models usually outperform regression models.
+In Khadilkar's view, regression provides the greatest value as a quantitative measurement, interpolation and prediction tool -- and is incredibly good at this. "Its properties are well known, and we have great ways of quantifying our confidence about our predictions as well," he said. For example, one can predict stock market prices with a specific range of possible variations around the predicted quantity.
+However, there are many applications where regression is not well suited. "For example, it is less useful for recognizing faces from images. Also, it is not a fit when trying to mine data for pattern recognition or automating decisions," Khadilkar said.
+"The key disadvantage of regression is possibly the fact that it only gives us a prediction of the quantity of interest without suggesting what you should do with the information," Khadilkar explained. "That is up to the human to decide."
+Editor's note: This article was updated in July 2024 to improve the reader experience.
+George Lawton is a journalist based in London. Over the last 30 years he has written more than 3,000 stories about computers, communications, knowledge management, business, health and other areas that interest him.
+Supervised vs. unsupervised learning: Use in business
+Top machine learning use cases and business applications
+Choosing between a rule-based vs. machine learning system
+Popular machine learning certificates
+Simulation models provide businesses with a framework for forecasting and strategy through tested practices in finance, ...
+The vendor's new AI-focused features include a Model Context Protocol layer for developing agents and prebuilt agentic AI ...
+The new features, most of which are not yet generally available, are aimed at enabling more nontechnical employees within ...
+Tech conferences are a vital way for CIOs and IT leaders to keep abreast of trends and make real-life connections in a ...
+The Great Flattening is a growing workplace trend, reshaping organizations by removing middle management, boosting agility, and ...
+As CIOs explore open source AI to escape vendor lock-in, many find rising costs in compute, talent and infrastructure. Smart cost...
+The suite, which combines capabilities from OCI and other platforms, will help Oracle compete with rivals providing similar ...
+The new capabilities, revealed amid news that the vendor is merging with Fivetran, include an updated engine that lowers data ...
+The deal brings together data movement and data transformation platforms that help developers build AI and analytics applications.
+Examining Kanban vs. MRP involves evaluating the two concepts’ similarities and some crucial differences as well. Learn more ...
+In this podcast, analyst Josh Bersin says employees' intuitive use of AI search tools to find answers and learn on the fly is ...
+Independent demand is more difficult to forecast because it is driven by external factors, while dependent demand is more ...
+©2025 TechTarget, Inc. d/b/a Informa TechTarget.
+					All Rights Reserved. 
+
+
+Privacy Policy
+
+
+
+Cookie Preferences 
+
+
+
+Cookie Preferences 
+
+
+
+Do Not Sell or Share My Personal Information
